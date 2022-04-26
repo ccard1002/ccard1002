@@ -1,6 +1,5 @@
 <h2 align="center"> Hi 👋 , I'm Yiming <br/></h2> 
 
-
 I'm still new into coding and my study mainly focuses on data science and machine learning, but I am also trying to learn more on web development and UI designing!
 
 <h3>💼 Things that I'm currently working on:</h3>
@@ -36,7 +35,7 @@ I'm still new into coding and my study mainly focuses on data science and machin
   <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp; -->
 </p>
 
-<a id="link" href="https://github.com/ccard1002/ccard1002/raw/master/CV/CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a>
+<!-- <a id="link" href="https://github.com/ccard1002/ccard1002/raw/master/CV/CV.pdf"><b>CLICK HERE TO DOWNLOAD MY CURRICULUM VITAE</b></a> -->
 
 ---
 

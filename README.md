@@ -1,6 +1,5 @@
 <h2 align="center"> Hi 👋 , I'm Yiming <br/></h2> 
 
----
 
 I'm still new into coding and my study mainly focuses on data science and machine learning, but I am also trying to learn more on web development and UI designing!
 

@@ -1,14 +1,6 @@
 <h3> Hi 👋 , I'm Yiming <br/></h3>
 <hr />
-I'm still new into coding and my study mainly focuses on data science and machine learning, but I am also trying to learn more on web development and UI designing!
-
-<h3>💼 Things that I'm currently working on:</h3>
-<ul>
-  <li>My bachelor project involving confidence estimation in image captioning models</li>
-  <li>Finishing my last semester's courses at uni</li>
-  <li>Learning Blender</li>
-  <li>Occasional art commissions</li>
-</ul>
+I'm still new into coding and my study mainly focuses on data science and machine learning.
 
 **Languages and Frameworks:**
 <p align="left">

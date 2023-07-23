@@ -1,6 +1,7 @@
 <h3> Hi 👋 , I'm Yiming <br/></h3>
 <hr />
-I'm still new into coding and my study mainly focuses on data science and machine learning.
+Welcome to my GitHub page!
+I'm a data science student, and my study mainly focuses on the subject of machine learning and natural language processing.
 
 **Languages and Frameworks:**
 <p align="left">
@@ -10,6 +11,7 @@ I'm still new into coding and my study mainly focuses on data science and machin
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="CSS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png" alt="JavaScript" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/haskell/haskell_48x48.png" alt="Haskell" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_48x48.png" alt="R" width="40" height="40" /></code>&nbsp;
 </p>
